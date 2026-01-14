@@ -163,20 +163,21 @@
 
 <br clear="left"/>
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=matrix-1407&show_icons=true"
-    alt="GitHub stats for matrix-1407"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matrix-1407&theme=github_dark"
+    alt="GitHub profile summary for matrix-1407"
   />
 </p>
 
+<br/>
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=matrix-1407"
-    alt="GitHub contribution streak for matrix-1407"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matrix-1407&theme=github_dark"
+    alt="Repositories per language for matrix-1407"
   />
 </p>
 

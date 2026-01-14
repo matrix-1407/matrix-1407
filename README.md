@@ -1,161 +1,135 @@
 <!-- =========================
-      HERO / HEADER
+     HERO / HEADER
 ========================= -->
 
-<p align="center">
-  <!-- Typing animation (edit text in URL if you want different lines) -->
+<p align='center'>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FF90&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Mrudul+%E2%80%A2+aka+matrix-1407;JS-first+dev+%E2%80%A2+Node.js+%26+Cloud+curious;IoT+tinkerer+%7C+Anime+%26+Matrix+vibes"
-    alt="Animated typing introduction"
+    src='https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00FACC&center=true&vCenter=true&width=650&lines=Hey%2C+I%27m+Mrudul+%E2%80%A2+matrix-1407;Frontend+%26+Node.js+backend;Cloud+%26+DevOps+explorer'
+    alt='Animated typing introduction for Mrudul (matrix-1407)'
   />
 </p>
 
-<p align="center">
-  <!-- Capsule hero banner -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:00ff7f&text=matrix-1407&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&section=header"
-    alt="Matrix-style animated header banner"
-  />
+<h1 align='center'>Console.log("Welcome to my side of the Matrix.");</h1>
+
+<p align='center'>
+  <strong>matrix-1407 � Frontend &amp; JS/Node backend � Cloud &amp; DevOps learner</strong>
 </p>
 
-<!-- Optional soft-anime background image (uncomment if you want it) -->
-<!--
-<p align="center">
-  <img src="<ANIME_BG_URL>" alt="Soft anime background" />
-</p>
--->
-
-<!-- Avatar row -->
-<p align="center">
-  <!-- Anime avatar (square or circle GIF/PNG recommended) -->
-  <img
-    src="<ANIME_AVATAR_URL>"
-    alt="Anime-style avatar for matrix-1407"
-    width="140"
-    height="140"
-    style="border-radius: 50%;"
-  />
+<p align='center'>
+  <img src='./haruhiro.png' alt='Mrudul (matrix-1407) avatar' width='140' style='border-radius:50%;' />
 </p>
 
-<p align="center">
-  <code>JS-first dev • Node.js &amp; Cloud curious • IoT tinkerer</code>
+<p align='center'>
+  <em>Frontend &amp; JS/Node backend | Learning cloud the hard way ?? | DevOps-curious | "It works on my machine" survivor</em>
 </p>
 
 ---
 
-<!-- =========================
-      ABOUT
-========================= -->
+## ?? About
 
-## 👾 About
-
-> `Console.log("Welcome to my side of the Matrix.");`
-
-- 🎓 3rd-year **E&TC engineering student** (5th semester completed)  
-- 🧑‍💻 Bio: ` E&TC Engineering student with
-  hands-on experience in building end-to-end
-  IoT solutions. Passionate about solving
-  tangible problems. Actively developing skills in fullstack development and cloud
-  technologies`  
-- 🔌 Interested in **JavaScript → Node.js/Express**, **Cloud & DevOps**, and building things that touch the real world   
-- 🌌 I like solitude, closing my eyes and just listening to music to escape reality 
-- 🏎️ F1, ⚽ football, ♟️ chess, and 🎌 anime keep my brain entertainer
+- ?? 3rd-year **Electronics &amp; Telecommunication engineering** student who enjoys turning ideas into clean UIs and reliable APIs  
+- ?? I build **frontend experiences** in JavaScript and **Node.js backends** (REST APIs, small services, dashboards)  
+- ?? Currently leveling up in **Cloud fundamentals, DevOps, and production-ready workflows**  
+- ?? Calm music, Alan Walker at **Sunburn**, late-night anime, and an adopted kitten keep the energy balanced while coding  
+- ?? Favorite debugging mantra: _"One log at a time, one bug at a time."_  
 
 ```text
 [ booting profile... ]
 > establishing secure connection to the Matrix
 
-> status: ONLINE ▓▓▓▓▓▓▓▓▓▓ 100%
+> status: ONLINE ���������� 100%
 ```
 
-<!-- =========================
-      CURRENT FOCUS
-========================= -->
+## ?? Current Focus
 
-🎯 Current Focus
+- Daily practice in **JavaScript & Node.js**, writing small utilities and services  
+- Designing **PostgreSQL schemas** and building **REST APIs** around them  
+- Getting comfortable with **Linux basics** and **AWS cloud fundamentals**  
+- Learning **CI/CD basics** (Git-centric workflows, simple pipelines, reproducible builds)  
 
-•  Backend with JavaScript / Node.js / Express
-•  Databases: PostgreSQL, SQL basics & data modeling
-•  Cloud technologies & DevOps fundamentals
-•  Building a clean portfolio of end-to-end projects (web + IoT)
+## ?? Tech & Tools
 
+<p align='center'>
 
+  <!-- Core (text badges � icons missing locally) -->
+  [JavaScript] [Node.js] [Express] [React]
 
-<!-- =========================
-      TECH STACK (light badges)
-========================= -->
+  <!-- Web (text badges) -->
+  [HTML] [CSS]
 
-🛠️ Stack & Tools
+  <!-- Languages (text badges) -->
+  [C++] [Python]
 
-<p align="center">
-  <!-- Core stack badge -->
-  <img
-    src="https://img.shields.io/badge/Core%20Stack-JS%20·%20Node%20·%20Express%20·%20React-00ff7f?style=for-the-badge&labelColor=000000"
-    alt="Core stack: JS, Node, Express, React"
-  />
-  <br />
-  <!-- Web & systems badge -->
-  <img
-    src="https://img.shields.io/badge/Web%20%26%20Systems-HTML%20·%20CSS%20·%20C%2B%2B-00c853?style=for-the-badge&labelColor=000000"
-    alt="Web & systems: HTML, CSS, C++"
-  />
-  <br />
-  <!-- Data badge -->
-  <img
-    src="https://img.shields.io/badge/Data-PostgreSQL%20·%20REST%20APIs-64ffda?style=for-the-badge&labelColor=000000"
-    alt="Data: PostgreSQL, REST APIs"
-  />
-  <br />
-  <!-- Cloud / DevOps learning badge -->
-  <img
-    src="https://img.shields.io/badge/Learning-AWS%20·%20Linux%20·%20Kubernetes%20·%20Terraform-ff9ff3?style=for-the-badge&labelColor=000000"
-    alt="Learning: AWS, Linux, Kubernetes, Terraform"
-  />
+  <!-- Databases & APIs (icons available) -->
+  <img src='./assets/mysql.svg' height='36' alt='MySQL logo' style='margin: 4px;' />
+  <img src='./assets/postgresql.svg' height='36' alt='PostgreSQL logo' style='margin: 4px;' />
+  <img src='./assets/rest.svg' height='36' alt='REST API icon' style='margin: 4px;' />
+
+  <!-- Learning / DevOps (icons available) -->
+  <img src='./assets/linux.svg' height='36' alt='Linux logo' style='margin: 4px;' />
+  <img src='./assets/aws.svg' height='36' alt='AWS logo' style='margin: 4px;' />
+  <img src='./assets/kubernetes.svg' height='36' alt='Kubernetes logo' style='margin: 4px;' />
+  <img src='./assets/terraform.svg' height='36' alt='Terraform logo' style='margin: 4px;' />
+
+  <!-- Tools (text badges � icons missing locally) -->
+  [Git] [VSCode] [Bash]
+
 </p>
 
-<details>
-  <summary><b>Text version (for low-bandwidth / accessibility)</b></summary>
+---
 
-•  Languages: JavaScript, C++, HTML, CSS  
-•  Backend: Node.js, Express  
-•  Database: PostgreSQL  
-•  Tools: Git, Linux basics  
-•  Learning: AWS, Linux, Kubernetes, Terraform  
-</details>
+## ?? Featured Projects
 
-<!-- =========================
-      GITHUB STATS
-========================= -->
+Here are a few repos to highlight (replace the placeholders with your own favorites):
 
-📊 GitHub Matrix
+- [`Featured Repo 1`](<FEATURED_REPO_1_URL>)
+- [`Featured Repo 2`](<FEATURED_REPO_2_URL>)
+- [`Featured Repo 3`](<FEATURED_REPO_3_URL>)
 
-<p align="center">
-  <!-- Main stats card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=matrix-1407&show_icons=true&hide_title=true&theme=chartreuse-dark&bg_color=000000&hide_border=true&icon_color=00ff7f&title_color=00ff7f"
-    alt="GitHub stats for matrix-1407"
-  />
+---
+
+## ?? Contact
+
+<table>
+  <tr>
+    <td>
+
+      <p>
+        <a href='<INSTAGRAM_URL>' target='_blank' rel='noreferrer'>
+          <img src='./assets/instagram.svg' height='32' alt='Instagram icon' style='margin-right: 8px;' />
+        </a>
+        <a href='<LINKEDIN_URL>' target='_blank' rel='noreferrer'>
+          <img src='./assets/linkedin.svg' height='32' alt='LinkedIn icon' style='margin-right: 8px;' />
+        </a>
+        <a href='mailto:<EMAIL>'>
+          <img src='./assets/gmail.svg' height='32' alt='Email icon' style='margin-right: 8px;' />
+        </a>
+      </p>
+
+      <p>
+        Prefer words over emojis?  
+        - Instagram: `<INSTAGRAM_URL>`  
+        - LinkedIn: `<LINKEDIN_URL>`  
+        - Email: `mailto:<EMAIL>`  
+      </p>
+
+    </td>
+    <td align='center'>
+      <img src='./haruhiro.png' alt='Mrudul (matrix-1407) avatar' width='140' style='border-radius:50%;' />
+    </td>
+  </tr>
+</table>
+
+---
+
+## ?? GitHub Stats
+
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=matrix-1407&show_icons=true&theme=transparent' alt='GitHub stats for matrix-1407' />
 </p>
 
-<p align="center">
-  <!-- Streak card (optional) -->
-  <img
-    src="https://streak-stats.demolab.com?user=matrix-1407&theme=chartreuse-dark&background=000000&hide_border=true&ring=00ff7f&fire=00ff7f&currStreakLabel=00ff7f"
-    alt="GitHub contribution streak for matrix-1407"
-  />
-</p>
+If stats do not load, visit https://github.com/matrix-1407
 
-<sub>If any of the cards above fail to load, you can always see everything directly on my
-<a href="https://github.com/matrix-1407">GitHub profile</a>.</sub>
+---
 
-
-
-<!-- =========================
-      CONTACT
-========================= -->
-
-🌐 Connect
-
-•  🧑‍💼 LinkedIn: [<LINKEDIN_URL>  ](https://www.linkedin.com/in/mrudul-bokade-140705mb/)
-•  ✉️ Email: mailto:<EMAIL>(mrudulbokade1407@gmail.com) 
-•  🐙 GitHub: https://github.com/matrix-1407
+> "There is no shortcut. Only systems, discipline, and patience."

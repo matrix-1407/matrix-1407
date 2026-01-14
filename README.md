@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=200&color=00FF9C&center=true&vCenter=true&width=620&lines=Hey%2C+I%27m+Mrudul;Web+Developer;Trust+me%2C+it+works+On+my+machine"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=200&color=00FF9C&center=true&vCenter=true&width=620&lines=Hey%2C+I%27m+Mrudul;A+Web+Developer;Trust+me%2C+it+works+On+my+machine;Probably!;Exploring+Cloud+and+DevOps"
     alt="Typing intro for Mrudul (matrix-1407)"
   />
 </p>
@@ -13,19 +13,14 @@
   <img
     src="./gojo.gif"
     alt="Gojo Satoru anime gif"
-    width="420"
+    width="500"
   />
 </p>
-
-
 <p align="center">
   <sub>
     <strong>matrix-1407</strong> • Web Developer • Cloud & DevOps
   </sub>
 </p>
-
-<br/>
-
 <h2 align="center">
   <code>console.log("welcome to my side of the matrix");</code>
 </h2>
@@ -43,43 +38,47 @@
 <hr style="width:60%; margin:auto;" />
 
 
-
 <!-- =========================
-     ABOUT (avatar left, text right)
+     ABOUT
 ========================= -->
 
-<table>
-  <tr>
-    <td width="150" valign="top">
-      <!-- local avatar -->
-      <img src="./haruhiro.png" alt="Mrudul (matrix-1407) avatar"/>
-    </td>
+</br>
 
-    <td valign="top">
-      ## 👋 About
-      - 🎓 3rd-year Electronics &amp; Telecommunication student (5th sem completed).  
-      - 💻 I build **clean frontends** and **Node.js backends** — REST APIs, small services, dashboards.  
-      - ☁️ Currently leveling up in **Cloud fundamentals** and **DevOps workflows**.  
-      - 🎧 Calm music, Alan Walker at Sunburn, late-night anime, and an adopted kitten keep me sane.  
-      - 🛠 Favorite mantra: _“One log at a time, one bug at a time.”_
+## 👾 About
 
-      ```text
-      [ booting profile... ]
-      > establishing secure connection to the Matrix
-      > status: ONLINE ▓▓▓▓▓▓▓▓▓▓ 100%
-      ```
-    </td>
-  </tr>
-</table>
+</br>
 
----
+
+<img
+  src="./haruhiro.png"
+  width="200"
+  align="left"
+  style="margin-right: 20px; margin-bottom: 8px; margin-top: 20px"
+/>
+
+- 🎓 **E&TC Engineering student** 
+- 🧑‍💻 Bio: `Engineering student with
+  hands-on experience in building end-to-end
+  IoT solutions. Passionate about solving
+  tangible problems. Actively developing skills in fullstack development and cloud
+  technologies`  
+- 🔌 Interested in **JavaScript → Node.js/Express**, **Cloud & DevOps**, and building things that touch the real world   
+- 🌌 I like solitude, closing my eyes and just listening to music to escape reality🎶🎧 
+- 🏎️ F1, ⚽ football, ♟️ chess, and 🎌 anime keep my brain entertained 🎞️
+
+
+```text
+[ booting profile... ]
+> establishing secure connection to the Matrix
+> status: ONLINE ▓▓▓▓▓▓▓▓▓▓ 100%
+```
+
 
 ## 🎯 Current Focus
-- Daily practice: **JavaScript & Node.js** (small tools + services)  
-- Databases & APIs: **PostgreSQL**, schema design, **REST APIs**  
+- Daily practice: **JavaScript & Node.js/Express.js** (small tools + services)  
+- Databases & APIs: **PostgreSQL**, Schema design, **REST APIs**  
 - Cloud basics: **Linux**, **AWS fundamentals**, and simple CI/CD pipelines  
-- Building a compact, recruiter-friendly portfolio
-
+- Building a clean portfolio of end-to-end projects (web + IoT)
 ---
 
 ## 🛠 Tech Stack & Tools
@@ -130,44 +129,57 @@
 
 
 ---
-
 ## 📬 Contact
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>
-        <a href="<INSTAGRAM_URL>"><img src="./assets/instagram.svg" height="32" alt="Instagram" style="margin-right:8px" /></a>
-        <a href="<LINKEDIN_URL>"><img src="./assets/linkedin.svg" height="32" alt="LinkedIn" style="margin-right:8px" /></a>
-        <a href="mailto:<EMAIL>"><img src="./assets/gmail.svg" height="32" alt="Email" style="margin-right:8px" /></a>
-      </p>
+<!-- Right-side GIF -->
+<img
+  src="./1.gif"
+  width="240"
+  align="left"
+  style="margin-left:20px;"
+/>
+<br/>
+<p align="center">
+  <a href="https://www.instagram.com/mrudul._.exe/" target="_blank">
+    <img src="./assets/instagram.svg" height="36" alt="Instagram" style="margin:10px 0;" />
+  </a>
+  <br/>
+  <br/>
+  <br/>
 
-      <p style="margin-top:12px;">
-        Preferred contact (placeholders):  
-        • Instagram: `<INSTAGRAM_URL>`  
-        • LinkedIn: `<LINKEDIN_URL>`  
-        • Email: `mailto:<EMAIL>`
-      </p>
-    </td>
+  <a href="https://www.linkedin.com/in/mrudul-bokade-140705mb/" target="_blank">
+    <img src="./assets/linkedin.svg" height="36" alt="LinkedIn" style="margin:10px 0;" />
+  </a>
+  <br/>
+  <br/>
+  <br/>
 
-    <td align="center" valign="top">
-      <!-- repeat avatar for symmetry -->
-      <img src="./haruhiro.png" alt="Mrudul (matrix-1407) avatar" width="140" style="border-radius:50%;" />
-    </td>
-  </tr>
-</table>
+  <a href="mailto:mrudulbokade1407@gmail.com">
+    <img src="./assets/gmail.svg" height="36" alt="Email" style="margin:10px 0;" />
+  </a>
+  <br/>
+  <br/>
+</p>
 
----
+<br clear="left"/>
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matrix-1407&show_icons=true&theme=chartreuse-dark" alt="GitHub stats for matrix-1407" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=matrix-1407&show_icons=true"
+    alt="GitHub stats for matrix-1407"
+  />
 </p>
 
-If stats do not load, visit: https://github.com/matrix-1407
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=matrix-1407"
+    alt="GitHub contribution streak for matrix-1407"
+  />
+</p>
 
----
 
 > "There is no shortcut. Only systems, discipline, and patience."
 

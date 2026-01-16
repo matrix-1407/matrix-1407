@@ -63,8 +63,8 @@
   tangible problems. Actively developing skills in fullstack development and cloud
   technologies`  
 - 🔌 Interested in **JavaScript → Node.js/Express**, **Cloud & DevOps**, and building things that touch the real world   
-- 🌌 I like solitude, closing my eyes and just listening to music to escape reality🎶🎧 
-- 🏎️ F1, ⚽ football, ♟️ chess, and 🎌 anime keep my brain entertained 🎞️
+- 🌌 I like to be solitude, and listening to music to escape reality🎶🎧 
+- 🏎️ F1, ⚽ football, ♟️ chess, and 🎌 anime and cinema🎞️ keep my brain entertained. 
 
 
 ```text

@@ -62,9 +62,9 @@
   IoT solutions. Passionate about solving
   tangible problems. Actively developing skills in fullstack development and cloud
   technologies`  
-- 🔌 Interested in **JavaScript → Node.js/Express**, **Cloud & DevOps**, and building things that touch the real world   
-- 🌌 I like to be solitude, and listening to music to escape reality🎶🎧 
-- 🏎️ F1, ⚽ football, ♟️ chess, and 🎌 anime and cinema🎞️ keep my brain entertained. 
+- 🔌 Interested in **JavaScript → Node.js/Express**, **Cloud & DevOps**, and building things that touch the real world problems 
+-  A Cinephile and I like to listen Music to escape reality🎶🎧 
+- 🏎️ F1, ⚽ football, ♟️ chess, and 🎌 anime and keep my brain entertained. 
 
 
 ```text

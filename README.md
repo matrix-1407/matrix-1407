@@ -9,13 +9,7 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="./gojo.gif"
-    alt="Gojo Satoru anime gif"
-    width="500"
-  />
-</p>
+
 <p align="center">
   <sub>
     <strong>matrix-1407</strong> • Web Developer • Cloud & DevOps
@@ -154,7 +148,7 @@
   <br/>
   <br/>
 
-  <a href="mailto:mrudulbokade1407@gmail.com">
+  <a href="mailto:me@mrudul.dev">
     <img src="./assets/gmail.svg" height="36" alt="Email" style="margin:10px 0;" />
   </a>
   <br/>
